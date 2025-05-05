@@ -1,0 +1,8 @@
+{
+    "appId": "com.app.nuxtcapacitorwebkit",
+    "appName": "nuxt-capacitor-webkit",
+    "webDir": ".output/public",
+    "bundledWebRuntime": false
+   
+  }
+  

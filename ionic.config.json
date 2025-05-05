@@ -1,0 +1,7 @@
+{
+    "name": "nuxt-capacitor-webkit",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "custom"
+  }
